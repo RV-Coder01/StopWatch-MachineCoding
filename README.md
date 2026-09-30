@@ -1,6 +1,10 @@
 Stop Watch
 1.Stopwatch vs Timer vs Digital Clock
+
+
 2.I should be able to Start/Stop/Pause the StopWatch
+
+
 3.Manage the case when I switch the tab
 
 
